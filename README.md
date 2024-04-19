@@ -1,9 +1,9 @@
 # PhotoFinder
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/PhotoFinder)
-![GitHub stars](https://img.shields.io/github/stars/your-username/PhotoFinder?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/PhotoFinder?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter?style=social)](https://twitter.com/your-twitter)
+![GitHub repo size](https://img.shields.io/github/repo-size/tarun2001jawla/PhotoFinder)
+![GitHub stars](https://img.shields.io/github/stars/tarun2001jawla/PhotoFinder?style=social)
+![GitHub forks](https://img.shields.io/github/forks/tarun2001jawla/PhotoFinder?style=social)
+
 
 Search and save your favorite photos with ease using the Unsplash API!
 
